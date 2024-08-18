@@ -1,4 +1,4 @@
-# Pull Request for Day X: [Task Title]
+# Pull Request for Day 1: [Introduction to Terraform and Infrastructure as Code (IaC)]
 
 ## Description
 
@@ -6,19 +6,19 @@ Provide a brief summary of what you accomplished in this pull request. Include d
 
 ## Task Details
 
-- **Day:** Day X
-- **Task:** [Briefly describe the task or link to the task details]
-- **Branch Name:** [The name of the branch you used for this PR]
+- **Day:** Day 1
+- **Task:** [I completed all the tasks for Day 1. I updated the daily-update.md file, wrote and published a blog post, and made a social media post with the required hashtags.]
+- **Branch Name:** [main]
 
 ## Blog Post
 
 If you wrote a blog post about today’s task, include the link here:
-- [Link to your blog post]
+- [https://medium.com/@malachieborohoul/what-is-infrastructure-as-code-iac-and-why-its-transforming-devops-c4729f11e355]
 
 ## Social Media Post
 
 If you made a social media post about today’s task, include the link here:
-- [Link to your social media post]
+- [https://x.com/malachiborohoul/status/1825250824789848154]
 
 ## Changes Made
 
@@ -26,13 +26,13 @@ If you made a social media post about today’s task, include the link here:
 
 ## Checklist
 
-- [ ] I have completed the task as described in `DayX/tasks.md`.
-- [ ] I have updated the `daily-update.md` file with my details.
-- [ ] I have written and published a blog post about today's task.
-- [ ] I have made a social media post about today's task.
-- [ ] I have used the required hashtags in my social media post.
-- [ ] I have followed the repository's contribution guidelines.
-- [ ] My code follows the repository's coding standards and best practices.
+- [x] I have completed the task as described in `Day1/tasks.md`.
+- [x] I have updated the `daily-update.md` file with my details.
+- [x] I have written and published a blog post about today's task.
+- [x] I have made a social media post about today's task.
+- [x] I have used the required hashtags in my social media post.
+- [x] I have followed the repository's contribution guidelines.
+- [x] My code follows the repository's coding standards and best practices.
 
 ## Additional Notes
 

@@ -1,12 +1,12 @@
 # Day 1: Introduction to Terraform and Infrastructure as Code (IaC)
 
 ## Participant Details
-- **Name:** [Your Name]
+- **Name:** [BOROHOUL Soguelni Malachie]
 - **Task Completed:** Introduction to Terraform and IaC
-- **Date and Time:** [Date and time of completion]
+- **Date and Time:** [18-08-2024 07:15 pm]
 
 ## Additional Notes
-- [Any additional comments or observations about the task]
+- [I took great pleasure in reading the book. It had all the information I needed as a beginner.]
 
 ## Participant Details
 ### No: 1
